@@ -1,1 +1,1 @@
-# Build boat-autonomous base on Arduino microcontroller
+# Build boat-autonomous base on Arduino Due microcontroller
